@@ -1,0 +1,9 @@
+streamlit
+pandas
+langgraph
+langchain
+langchain-groq
+langchain-community
+python-dotenv
+regex
+huggingface_hub
